@@ -1,0 +1,11 @@
+.primary-bg {
+    background-color: rgb(51, 76, 138);
+}
+
+.secondary-bg {
+    background-color: rgb(10, 39, 68);
+}
+
+nav ul a {
+    padding: 36px 16px;
+}
