@@ -19,7 +19,6 @@ const Navbar = () => {
                 <NavLink to={'/contact'} className={({ isActive }) => isActive && "bg-red-500"}>Contact Us</NavLink>
                 <FaSearch className="ml-4 hover:cursor-pointer text-xl"/>
             </ul>
-            
         </nav>
     );
 };
